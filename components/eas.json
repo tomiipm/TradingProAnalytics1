@@ -1,0 +1,13 @@
+{
+  "build": {
+    "development": {
+      "ios": {
+        "simulator": true
+      }
+    }
+  }
+}
+{
+  "submit": {
+    "ios": {
+      "appleId": "
